@@ -3,5 +3,8 @@
 
 ### ESTO LO MANDO DESDE LA DEVELOP
 
-#### trabajando en una nueva feature
-cambias realizados para mostrar en nueva rama
+### Esta es la FEATURE/NUEVA
+ESTOS CAMBIOS ESTÁN CASI AL MISMO NIVEL QUE LOS OTROS
+----------------
+-------------------
+----------------
